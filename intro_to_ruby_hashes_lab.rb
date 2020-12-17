@@ -50,13 +50,5 @@ def monopoly_with_third_tier
 end
 
 def monopoly_with_fourth_tier
-	monopoly = {
-		monopoly = {
-			:railroads =>
-			{
-				:pieces => 4,
-				:names => {},
-				:rent_in_dollars => {},
-			},
-		}
+
 end
