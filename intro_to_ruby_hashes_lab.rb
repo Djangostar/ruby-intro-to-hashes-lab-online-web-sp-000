@@ -56,10 +56,12 @@ def monopoly_with_fourth_tier
 			{
 				:pieces => 4,
 				:names => {},
-				:rent_in_dollars => {},
+				:rent_in_dollars => {
+					
+				},
 			},
 		}
-	end
+end
 
 def monopoly_with_third_tier
 	monopoly = {
@@ -86,3 +88,4 @@ def monopoly_with_third_tier
 			},
 		}
 end
+
